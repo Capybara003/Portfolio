@@ -94,8 +94,8 @@ const AppCenter = (): JSX.Element => {
           <Styled.Footer>
             <Avatar
               src={'/assets/avatar.png'}
-              firstName={'Roman'}
-              lastName={'Kriuchko'}
+              firstName={'Joshua'}
+              lastName={'David'}
               isActive={false}
               hasBadge={false}
               width={'45px'}

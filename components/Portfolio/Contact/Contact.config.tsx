@@ -12,7 +12,7 @@ export const useContactConfig = (): { myContacts: IMyContact[] } => {
       id: 1,
       icon: <FiTwitter className={'contact-icon'} />,
       text: 'Twitter',
-      href: 'https://twitter.com/roman_kcc',
+      href: 'https://twitter.com/Joshua_kcc',
     },
     {
       id: 2,
@@ -24,13 +24,13 @@ export const useContactConfig = (): { myContacts: IMyContact[] } => {
       id: 3,
       icon: <FiLinkedin className={'contact-icon'} />,
       text: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/roman/',
+      href: 'https://www.linkedin.com/in/Joshua/',
     },
     {
       id: 4,
       icon: <FiInstagram className={'contact-icon'} />,
       text: 'LinkedIn',
-      href: 'https://www.instagram.com/romancodes/',
+      href: 'https://www.instagram.com/Joshuacodes/',
     },
   ];
 

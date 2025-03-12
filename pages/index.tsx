@@ -43,7 +43,7 @@ const Home: NextPage<ServerProps> = ({ title }) => {
     <>
       <Loader isOnScreen={isLoading} loadingDuration={LOADING_INTRO_DURATION} />
       {/* {isOnMobile ? (
-        <PortfolioLayout title={'Roman Kriuchko | Full-Stack Web Developer'}>
+        <PortfolioLayout title={'Joshua David | Full-Stack Web Developer'}>
           <PortfolioLanding />
         </PortfolioLayout>
       ) : ( */}
@@ -63,7 +63,7 @@ export const getStaticProps: GetStaticProps = wrapper.getStaticProps(
 
     return {
       props: {
-        title: 'Roman Kriuchko | Portfolio',
+        title: 'Joshua David | Portfolio',
       },
       revalidate: 3600,
     };

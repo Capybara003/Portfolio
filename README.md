@@ -1,6 +1,6 @@
-# ✨ Roman | Portfolio ✨
+# ✨ Joshua | Portfolio ✨
 
-#### 🔥 Try it online: [https://romankriuchko.vercel.app/](https://romankriuchko.vercel.app/)
+#### 🔥 Try it online: [https://JoshuaDavid.vercel.app/](https://JoshuaDavid.vercel.app/)
 
 # Stack
 
@@ -21,4 +21,4 @@
 
 ## License
 
-⚖️ MIT Copyright (c) 2021 Roman Kriuchko
+⚖️ MIT Copyright (c) 2021 Joshua David
