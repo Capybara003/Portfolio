@@ -31,7 +31,7 @@ const About = (): JSX.Element => {
       <Styled.InfoWrapper>
         <Paragraph margin={'1rem 0'}>Next.js Windows OS</Paragraph>
         <Paragraph margin={'1rem 0'}>
-          Built by Joshua Kriuchko ©2021 All right reserved
+          Built by Joshua David ©2021 All right reserved
         </Paragraph>
         <Paragraph margin={'2rem 0'}>
           This Web Operating System emulation and its user interface are

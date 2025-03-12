@@ -95,7 +95,7 @@ const AppCenter = (): JSX.Element => {
             <Avatar
               src={'/assets/avatar.png'}
               firstName={'Joshua'}
-              lastName={'Kriuchko'}
+              lastName={'David'}
               isActive={false}
               hasBadge={false}
               width={'45px'}

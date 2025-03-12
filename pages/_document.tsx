@@ -50,16 +50,16 @@ export default class MyDocument extends Document {
           <link rel="apple-touch-icon" href="/logo.png" />
           <link rel="manifest" href="/app.webmanifest" />
 
-          <meta property="og:title" content="Joshua Kriuchko" />
-          <meta name="author" content="Joshua Kriuchko" />
+          <meta property="og:title" content="Joshua David" />
+          <meta name="author" content="Joshua David" />
           <meta property="og:locale" content="en_US" />
           <meta
             name="description"
-            content="Joshua Kriuchko | Full-stack Web Developer | Portfolio"
+            content="Joshua David | Full-stack Web Developer | Portfolio"
           />
           <meta
             property="og:description"
-            content="Joshua Kriuchko | Full-stack Web Developer | Portfolio"
+            content="Joshua David | Full-stack Web Developer | Portfolio"
           />
 
           <meta property="og:site_name" content="Joshua" />

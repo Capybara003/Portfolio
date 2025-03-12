@@ -39,7 +39,7 @@ const Resume = (): JSX.Element => {
               Joshua.porfolio
             </Styled.ContactLink>
 
-            <Styled.ContactLink href="mailto: Joshuakriuchko@gmail.com">
+            <Styled.ContactLink href="mailto: JoshuaDavid@gmail.com">
               <FiMail />
               Joshua
             </Styled.ContactLink>
@@ -63,7 +63,7 @@ const Resume = (): JSX.Element => {
           {/*HEADER WITH NAME*/}
           <Styled.SummaryHeader>
             <Styled.Name>
-              Joshua <span>Kriuchko</span>
+              Joshua <span>David</span>
             </Styled.Name>
             <Styled.Title>
               Senior Full-Stack | Web3 | Bot Engineer
@@ -87,7 +87,7 @@ const Resume = (): JSX.Element => {
                 <FiGithub className={'social-media-icon'} />
                 GitHub
               </Styled.SocialMediaLink>
-              <Styled.SocialMediaLink href="mailto: Joshuakriuchko@gmail.com">
+              <Styled.SocialMediaLink href="mailto: JoshuaDavid@gmail.com">
                 <FiMail className={'social-media-icon'} />
                 Email
               </Styled.SocialMediaLink>

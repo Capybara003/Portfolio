@@ -1,6 +1,6 @@
 # ✨ Joshua | Portfolio ✨
 
-#### 🔥 Try it online: [https://Joshuakriuchko.vercel.app/](https://Joshuakriuchko.vercel.app/)
+#### 🔥 Try it online: [https://JoshuaDavid.vercel.app/](https://JoshuaDavid.vercel.app/)
 
 # Stack
 
@@ -21,4 +21,4 @@
 
 ## License
 
-⚖️ MIT Copyright (c) 2021 Joshua Kriuchko
+⚖️ MIT Copyright (c) 2021 Joshua David

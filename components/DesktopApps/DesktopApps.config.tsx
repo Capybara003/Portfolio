@@ -40,7 +40,7 @@ export const useDesktopApps = (): {
       text: 'Joshua ✨',
       willOpenWindowWith:
         <Iframe
-          iframeSrc={'https://Joshua-kriuchko-portfolio.vercel.app'}
+          iframeSrc={'https://Joshua-David-portfolio.vercel.app'}
           iframeSize={{ width: '100%', height: '100%' }}
           title={'Portfoilo'}
           style={{
@@ -77,7 +77,7 @@ export const useDesktopApps = (): {
       variant: 'desktop',
       iconSrc: '/assets/icons/recommended/power-point.png',
       iconSize: { width: 40, height: 40 },
-      action: () => router.push('https://Joshua-kriuchko-portfolio.vercel.app/#work'),
+      action: () => router.push('https://Joshua-David-portfolio.vercel.app/#work'),
     },
     {
       id: 8,
