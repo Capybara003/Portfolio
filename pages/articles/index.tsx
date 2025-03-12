@@ -34,7 +34,7 @@ export const getStaticProps: GetStaticProps = wrapper.getStaticProps(
 
     return {
       props: {
-        title: 'Roman Kriuchko | Articles',
+        title: 'Joshua Kriuchko | Articles',
       },
       revalidate: 3600,
     };

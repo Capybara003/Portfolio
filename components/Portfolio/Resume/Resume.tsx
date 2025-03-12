@@ -36,12 +36,12 @@ const Resume = (): JSX.Element => {
               rel="noopener"
             >
               <FiGlobe />
-              Roman.porfolio
+              Joshua.porfolio
             </Styled.ContactLink>
 
-            <Styled.ContactLink href="mailto: romankriuchko@gmail.com">
+            <Styled.ContactLink href="mailto: Joshuakriuchko@gmail.com">
               <FiMail />
-              Roman
+              Joshua
             </Styled.ContactLink>
             <p>Kyiv, Kyiv, Ukraine </p>
           </Styled.ContactInfo>
@@ -63,7 +63,7 @@ const Resume = (): JSX.Element => {
           {/*HEADER WITH NAME*/}
           <Styled.SummaryHeader>
             <Styled.Name>
-              Roman <span>Kriuchko</span>
+              Joshua <span>Kriuchko</span>
             </Styled.Name>
             <Styled.Title>
               Senior Full-Stack | Web3 | Bot Engineer
@@ -87,7 +87,7 @@ const Resume = (): JSX.Element => {
                 <FiGithub className={'social-media-icon'} />
                 GitHub
               </Styled.SocialMediaLink>
-              <Styled.SocialMediaLink href="mailto: romankriuchko@gmail.com">
+              <Styled.SocialMediaLink href="mailto: Joshuakriuchko@gmail.com">
                 <FiMail className={'social-media-icon'} />
                 Email
               </Styled.SocialMediaLink>
@@ -97,8 +97,8 @@ const Resume = (): JSX.Element => {
               </Styled.SocialMediaLink>
 
               <Styled.SocialMediaLink
-                href={'/assets/roman-cv.pdf'}
-                download="roman-cv.pdf"
+                href={'/assets/Joshua-cv.pdf'}
+                download="Joshua-cv.pdf"
               >
                 <FiDownload className={'social-media-icon'} />
                 Download CV
@@ -146,7 +146,7 @@ const Resume = (): JSX.Element => {
             <p>
               Links to some of my projects and work can be found on{' '}
               <Link href={'/portfolio/projects'}>
-                roman/portfolio/projects
+                Joshua/portfolio/projects
               </Link>{' '}
               and details can be provided upon request via a scheduled demo
               call.

@@ -50,19 +50,19 @@ export default class MyDocument extends Document {
           <link rel="apple-touch-icon" href="/logo.png" />
           <link rel="manifest" href="/app.webmanifest" />
 
-          <meta property="og:title" content="Roman Kriuchko" />
-          <meta name="author" content="Roman Kriuchko" />
+          <meta property="og:title" content="Joshua Kriuchko" />
+          <meta name="author" content="Joshua Kriuchko" />
           <meta property="og:locale" content="en_US" />
           <meta
             name="description"
-            content="Roman Kriuchko | Full-stack Web Developer | Portfolio"
+            content="Joshua Kriuchko | Full-stack Web Developer | Portfolio"
           />
           <meta
             property="og:description"
-            content="Roman Kriuchko | Full-stack Web Developer | Portfolio"
+            content="Joshua Kriuchko | Full-stack Web Developer | Portfolio"
           />
 
-          <meta property="og:site_name" content="roman" />
+          <meta property="og:site_name" content="Joshua" />
           <script src="/init-sw.js" defer></script>
         </Head>
 

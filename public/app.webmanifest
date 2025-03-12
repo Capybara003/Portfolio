@@ -1,6 +1,6 @@
 {
-  "name": "roman | portfolio",
-  "short_name": "roman | portfolio",
+  "name": "Joshua | portfolio",
+  "short_name": "Joshua | portfolio",
   "start_url": "./",
   "theme_color": "rgb(165,203,146)",
   "scope": "./",
@@ -22,7 +22,7 @@
       "sizes": "512x512"
     }
   ],
-  "description": "This is a portfolio website for Roman Kriuchko, a full-stack software engineer and content creator.",
+  "description": "This is a portfolio website for Joshua Kriuchko, a full-stack software engineer and content creator.",
   "screenshots": [
     {
       "src": "logo.png",
