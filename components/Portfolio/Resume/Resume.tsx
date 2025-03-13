@@ -80,7 +80,7 @@ const Resume = (): JSX.Element => {
                 Linkedin
               </Styled.SocialMediaLink>
               <Styled.SocialMediaLink
-                href={'https://github.com/V0410'}
+                href={'https://github.com/Capybara003'}
                 target={'_blank'}
                 rel="noopener"
               >

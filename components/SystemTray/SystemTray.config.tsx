@@ -91,7 +91,7 @@ export const useSystemTrayConfig = (): {
       id: 7,
       src: '/assets/icons/startmenu/github.svg',
       size: { width: 34, height: 34 },
-      action: () => window.open('https://github.com/V0410', '_blank'),
+      action: () => window.open('https://github.com/Capybara003', '_blank'),
       alt: 'connect on github',
       willOpenWindowWith: null,
     },

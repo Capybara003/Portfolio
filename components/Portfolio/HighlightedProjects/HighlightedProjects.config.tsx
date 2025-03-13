@@ -75,7 +75,7 @@ export const useHighlightedProjectsData = (): {
       slideHeight: '100vh',
       projectImg: '/assets/portfolio/projectOne/SneakerManiacs.png',
       projectMobileImg: '/assets/portfolio/projectOne/sneakerManiacsPhone.png',
-      githubLink: 'https://github.com/V0410/next-multibrand-store',
+      githubLink: 'https://github.com/Capybara003/next-multibrand-store',
       liveLink: 'https://sneaker-maniacs.vercel.app/',
       projectTechnologies: [
         'Next.js',
@@ -102,7 +102,7 @@ export const useHighlightedProjectsData = (): {
       slideHeight: '100vh',
       projectImg: '/assets/portfolio/projectTwo/vpsFullHd.png',
       projectMobileImg: '/assets/portfolio/projectTwo/vpsMobile.png',
-      githubLink: 'https://github.com/V0410/next-multibrand-store',
+      githubLink: 'https://github.com/Capybara003/next-multibrand-store',
       liveLink: 'https://optics-vps.vercel.app/',
       projectTechnologies: ['Next.js', 'React', 'Redux', 'Mongo DB', 'Express'],
 
