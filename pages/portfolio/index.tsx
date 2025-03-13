@@ -6,7 +6,7 @@ import PortfolioLanding from '../../components/Portfolio/PortfolioLanding/Portfo
 
 const PortfolioLandingPage: NextPage = () => {
   return (
-    <PortfolioLayout title={'Vova Ushenko | Full-Stack Web Developer'}>
+    <PortfolioLayout title={'Joshua Dvid| Full-Stack Web Developer'}>
       <PortfolioLanding />
     </PortfolioLayout>
   );

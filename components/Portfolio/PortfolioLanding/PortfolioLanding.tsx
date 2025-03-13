@@ -18,7 +18,7 @@ const PortfolioLanding = (): JSX.Element => {
   return (
     <Styled.Container onClick={() => setIsMenuExpanded((p) => !p)}>
       <Styled.Navigation
-        key={`this-key-is-for-triggering-animation-${isMenuExpanded}`}
+        key={`this-key-is-for-triggering-animation-${isMenuExpanded}`} style={{backgroundColor: "#2e2e2e"}}
       >
         <Styled.LinkWrapper onClick={handleStopPropagation}>
           <AnimatedRouterLink
@@ -37,7 +37,7 @@ const PortfolioLanding = (): JSX.Element => {
           />
           <AnimatedRouterLink
             variant={'highlight'}
-            text={isMenuExpanded ? 'Contact' : 'Vova'}
+            text={isMenuExpanded ? 'Contact' : 'Joshua'}
             href={'/portfolio/contact'}
             hoverText={'Contact'}
             animationTimeout={900}
