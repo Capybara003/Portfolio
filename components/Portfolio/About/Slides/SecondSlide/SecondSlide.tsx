@@ -17,7 +17,7 @@ const SecondSlide = (): JSX.Element => {
         <div className="left-column">
           <SectionHeader
             variant={'medium'}
-            headerText={'Design'}
+            headerText={'Full Satck'}
             margin={'0'}
             color={'#2bff88'}
           />

@@ -25,10 +25,10 @@ const Terminal = (): JSX.Element => {
   const router = useRouter();
 
   const redirectToPortfolio = async () => {
-    return await router.push('https://Joshua-David-portfolio.vercel.app/');
+    return await router.push('/portfolio');
   };
   const redirectToProjects = async () => {
-    return await router.push('https://Joshua-David-portfolio.vercel.app/#work');
+    return await router.push('/portfolio/projects');
   };
 
   return (

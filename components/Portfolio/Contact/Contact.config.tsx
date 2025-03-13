@@ -18,7 +18,7 @@ export const useContactConfig = (): { myContacts: IMyContact[] } => {
       id: 2,
       icon: <FiGithub className={'contact-icon'} />,
       text: 'GitHub',
-      href: 'https://github.com/V0410',
+      href: 'https://github.com/Capybara003',
     },
     {
       id: 3,

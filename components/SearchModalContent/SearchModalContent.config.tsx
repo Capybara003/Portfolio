@@ -28,7 +28,7 @@ export const useSearchModalConfig = (): {
       id: 2,
       text: 'GitHub',
       icon: '/assets/icons/startmenu/github.svg',
-      action: () => window.open('https://github.com/V0410', '_blank'),
+      action: () => window.open('https://github.com/Capybara003', '_blank'),
       iconSize: { height: 40, width: 40 },
       willOpenWindowWith: null,
     },

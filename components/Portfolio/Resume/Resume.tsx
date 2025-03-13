@@ -39,7 +39,7 @@ const Resume = (): JSX.Element => {
               Joshua.porfolio
             </Styled.ContactLink>
 
-            <Styled.ContactLink href="mailto: JoshuaDavid@gmail.com">
+            <Styled.ContactLink href="mailto: mantoketo4@gmail.com">
               <FiMail />
               Joshua
             </Styled.ContactLink>
@@ -80,14 +80,14 @@ const Resume = (): JSX.Element => {
                 Linkedin
               </Styled.SocialMediaLink>
               <Styled.SocialMediaLink
-                href={'https://github.com/V0410'}
+                href={'https://github.com/Capybara003'}
                 target={'_blank'}
                 rel="noopener"
               >
                 <FiGithub className={'social-media-icon'} />
                 GitHub
               </Styled.SocialMediaLink>
-              <Styled.SocialMediaLink href="mailto: JoshuaDavid@gmail.com">
+              <Styled.SocialMediaLink href="mailto: mantoketo4@gmail.com">
                 <FiMail className={'social-media-icon'} />
                 Email
               </Styled.SocialMediaLink>
