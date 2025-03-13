@@ -79,7 +79,7 @@ export const useSystemTrayConfig = (): {
       alt: 'Explore files',
       willOpenWindowWith: 
       <Iframe
-      iframeSrc={'https://Joshua-David-portfolio.vercel.app'}
+      iframeSrc={'/portfolio'}
       iframeSize={{ width: '100%', height: '100%' }}
       title={'Portfoilo'}
       style={{

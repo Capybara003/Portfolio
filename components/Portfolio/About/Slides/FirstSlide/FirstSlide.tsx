@@ -17,7 +17,7 @@ const FirstSlide = (): JSX.Element => {
       <Styled.FirstSlide id={'first-slide'} className="page first-page">
         <SectionHeader
           variant={'medium'}
-          headerText={'Creative Web Developer'}
+          headerText={'Full stack | Web3 | bot Engineer'}
           margin={'0'}
           color={'#2bff88'}
         />
@@ -28,8 +28,9 @@ const FirstSlide = (): JSX.Element => {
           variant={'large'}
           withAnimatedPresence={true}
         >
-          Designing and building of simple, intuitive and scalable web products
-          is my <WithSparkles color={'yellow'}>calling.</WithSparkles>
+          <WithSparkles color={'yellow'}>My mission</WithSparkles> 
+          is to bridge the gap between traditional web applications and decentralized platforms,<br/> leveraging the power
+          of blockchain and automation.
         </PortfolioParagraph>
 
         <ScrollHint />
