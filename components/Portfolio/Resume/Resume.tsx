@@ -144,7 +144,7 @@ const Resume = (): JSX.Element => {
               <span>Computer Science</span>
             </h4>
             <Styled.University>
-              Taras Shevchenko National University of Kyiv
+              Osaka University
             </Styled.University>
           </Styled.EducationDetails>
         </Styled.RightColumn>

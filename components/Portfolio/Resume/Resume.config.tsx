@@ -162,12 +162,12 @@ export const professionalExperience: IProfessionalExperience[] = [
   },
   {
     variant: 'withResponsibilities',
-    company: 'Geniusee',
+    company: 'Cocoda',
     companyImg: '/assets/portfolio/Geniusee.png',
     role: 'Senior Frontend Developer',
     shortSummary:
       'I worked at Geniusee on a number of educational and Web projects as a front and back end developer. I architected and constructed solutions daily used by tens of thousands of students and thousands of employees.',
-    timeFrame: ' January 2017 – May 2020',
+    timeFrame: ' January 2017 – January 2020',
     responsibilities: [
       {
         text: 'Led the development of a scalable web application using React and Next.js, improving user engagement by 30%.',
@@ -185,7 +185,7 @@ export const professionalExperience: IProfessionalExperience[] = [
   },
   {
     variant: 'withResponsibilities',
-    company: 'Program-Ace',
+    company: 'Schoo',
     companyImg: '/assets/portfolio/Program-Ace.png',
     role: 'Frontend Developer',
     shortSummary:
@@ -206,30 +206,6 @@ export const professionalExperience: IProfessionalExperience[] = [
       },
       {
         text: 'Worked closely with backend developers to integrate RESTful APIs, ensuring smooth data flow and application performance.',
-        iconUrl: '/assets/portfolio/quote.svg',
-      },
-    ],
-  },
-  {
-    variant: 'withResponsibilities',
-    company: 'Intellias',
-    companyImg: '/assets/portfolio/Intellias.png',
-    role: 'Junior Web Developer',
-    shortSummary:
-      'Participated in projects centered on the development of non-invasive cancer-detection algorithms. During the projects, I\n' +
-      'expanded my horizons in machine learning and learned various image processing algorithms and methods.',
-    timeFrame: '2017 - 2019',
-    responsibilities: [
-      {
-        text: 'Assisted in the development of client websites using HTML, CSS, and JavaScript, gaining foundational knowledge in web technologies.',
-        iconUrl: '/assets/portfolio/quote.svg',
-      },
-      {
-        text: 'Collaborated with senior developers to troubleshoot and debug existing applications, improving overall functionality.',
-        iconUrl: '/assets/portfolio/quote.svg',
-      },
-      {
-        text: 'Conducted user testing and gathered feedback to refine web applications, leading to increased client satisfaction.',
         iconUrl: '/assets/portfolio/quote.svg',
       },
     ],
