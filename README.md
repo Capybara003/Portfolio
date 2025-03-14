@@ -1,6 +1,6 @@
 # ✨ Joshua | Portfolio ✨
 
-#### 🔥 Try it online: [https://JoshuaDavid.vercel.app/](https://JoshuaDavid.vercel.app/)
+#### 🔥 Try it online: [https://joshua-david-white.vercel.app/](https://joshua-david-white.vercel.app/)
 
 # Stack
 
