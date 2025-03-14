@@ -30,16 +30,7 @@ const Resume = (): JSX.Element => {
       <Styled.ResumeWrapper>
         <Styled.LeftColumn>
           <Styled.ContactInfo>
-            <Styled.ContactLink
-              href={'windows-portfolio-black.vercel.app/'}
-              target="_blank"
-              rel="noopener"
-            >
-              <FiGlobe />
-              Joshua.porfolio
-            </Styled.ContactLink>
-
-            <Styled.ContactLink href="mailto: mantoketo4@gmail.com">
+            <Styled.ContactLink href="mailto: Advnture123@gmail.com">
               <FiMail />
               Joshua
             </Styled.ContactLink>
@@ -72,14 +63,6 @@ const Resume = (): JSX.Element => {
             {/*SOCIAL MEDIA LINKS*/}
             <Styled.SocialLinksWrapper>
               <Styled.SocialMediaLink
-                href={'https://www.linkedin.com/in/vovau/'}
-                target={'_blank'}
-                rel="noopener"
-              >
-                <SiLinkedin className={'social-media-icon'} />
-                Linkedin
-              </Styled.SocialMediaLink>
-              <Styled.SocialMediaLink
                 href={'https://github.com/Capybara003'}
                 target={'_blank'}
                 rel="noopener"
@@ -87,13 +70,13 @@ const Resume = (): JSX.Element => {
                 <FiGithub className={'social-media-icon'} />
                 GitHub
               </Styled.SocialMediaLink>
-              <Styled.SocialMediaLink href="mailto: mantoketo4@gmail.com">
+              <Styled.SocialMediaLink href="mailto: Advnture123@gmail.com">
                 <FiMail className={'social-media-icon'} />
                 Email
               </Styled.SocialMediaLink>
               <Styled.SocialMediaLink href="tel:+14378861335 ">
                 <FiPhoneOutgoing className={'social-media-icon'} />
-                +1 604 834 3600
+                +1 208 435 9096
               </Styled.SocialMediaLink>
 
               <Styled.SocialMediaLink

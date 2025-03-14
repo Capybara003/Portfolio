@@ -99,7 +99,7 @@ const AppCenter = (): JSX.Element => {
               isActive={false}
               hasBadge={false}
               width={'45px'}
-              onClick={() => router.push('/portfolio')}
+              onClick={() => router.push('')}
             />
             <Styled.PowerOff>
               <FiPower className={'power-off'} />

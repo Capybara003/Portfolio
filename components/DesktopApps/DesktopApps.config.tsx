@@ -27,7 +27,7 @@ export const useDesktopApps = (): {
 
   const initialDesktopAppsList: IDesktopApp[] = [
     {
-      id: 2,
+      id: 1,
       text: 'VSCode',
       willOpenWindowWith: <VsCode />,
       variant: 'desktop',
@@ -36,24 +36,7 @@ export const useDesktopApps = (): {
       action: null,
     },
     {
-      id: 3,
-      text: 'Joshua ✨',
-      willOpenWindowWith:
-        <Iframe
-          iframeSrc={'/portfolio'}
-          iframeSize={{ width: '100%', height: '100%' }}
-          title={'Portfoilo'}
-          style={{
-            border: 'none',
-          }}
-        />,
-      variant: 'desktop',
-      iconSrc: '/assets/icons/Desktop/user-folder.png',
-      iconSize: { width: 40, height: 40 },
-      action: null,
-    },
-    {
-      id: 4,
+      id: 2,
       text: 'Likes',
       willOpenWindowWith: <Likes />,
       variant: 'desktop',
@@ -62,7 +45,7 @@ export const useDesktopApps = (): {
       action: null,
     },
     {
-      id: 6,
+      id: 3,
       text: 'Resume',
       willOpenWindowWith: <Resume />,
       variant: 'desktop',
@@ -71,16 +54,7 @@ export const useDesktopApps = (): {
       action: null,
     },
     {
-      id: 7,
-      text: 'Projects',
-      willOpenWindowWith: null,
-      variant: 'desktop',
-      iconSrc: '/assets/icons/recommended/power-point.png',
-      iconSize: { width: 40, height: 40 },
-      action: () => router.push('/portfolio/projects'),
-    },
-    {
-      id: 8,
+      id: 4,
       text: 'Trash',
       willOpenWindowWith: <TrashBin />,
       variant: 'desktop',
@@ -92,7 +66,7 @@ export const useDesktopApps = (): {
       action: null,
     },
     {
-      id: 9,
+      id: 5,
       text: 'Comment',
       willOpenWindowWith: <CommentsForm />,
       variant: 'desktop',
@@ -101,7 +75,7 @@ export const useDesktopApps = (): {
       action: null,
     },
     {
-      id: 10,
+      id: 6,
       text: 'Acknowledgments',
       willOpenWindowWith: <Acknowledgments />,
       variant: 'desktop',
@@ -110,7 +84,7 @@ export const useDesktopApps = (): {
       action: null,
     },
     {
-      id: 11,
+      id: 7,
       text: 'Comments',
       willOpenWindowWith: <CommentsList />,
       variant: 'desktop',

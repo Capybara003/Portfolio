@@ -24,13 +24,6 @@ const Terminal = (): JSX.Element => {
 
   const router = useRouter();
 
-  const redirectToPortfolio = async () => {
-    return await router.push('/portfolio');
-  };
-  const redirectToProjects = async () => {
-    return await router.push('/portfolio/projects');
-  };
-
   return (
     <Styled.Container>
       <Trmnl
@@ -47,8 +40,6 @@ const Terminal = (): JSX.Element => {
           showmsg: () => greetingMessage,
           hack: () => hack,
           popup: () => alert('hello'),
-          portfolio: redirectToPortfolio,
-          projects: redirectToProjects,
           SECRET_COMMAND: () => {
             openLanding();
             return sad;
