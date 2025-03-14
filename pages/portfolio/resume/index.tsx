@@ -6,7 +6,7 @@ import Resume from '../../../components/Portfolio/Resume/Resume';
 
 const PortfolioLandingPage: NextPage = () => {
   return (
-    <PortfolioLayout title={'Vova Ushenko | Résumé'}>
+    <PortfolioLayout title={'Jashon David | Resume'}>
       <Resume />
     </PortfolioLayout>
   );

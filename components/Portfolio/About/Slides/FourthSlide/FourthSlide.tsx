@@ -65,7 +65,7 @@ const FourthSlide = (): JSX.Element => {
             <Styled.FloatingImgContainer variant={'person'}>
               <Image
                 src={'/assets/portfolio/work-from-home.svg'}
-                alt={'Vova is working from home'}
+                alt={'Joshua is working from home'}
                 height={500}
                 width={500}
                 objectFit={'contain'}

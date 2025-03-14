@@ -6,7 +6,7 @@ import HighlightedProjects from '../../../components/Portfolio/HighlightedProjec
 
 const PortfolioLandingPage: NextPage = () => {
   return (
-    <PortfolioLayout title={'Vova Ushenko | Full-Stack Web Developer'}>
+    <PortfolioLayout title={'Jashon David | Full stack and web3 developer'}>
       <HighlightedProjects />
     </PortfolioLayout>
   );
