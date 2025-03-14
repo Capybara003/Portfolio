@@ -5,9 +5,6 @@ import { useTypedSelector } from '../../hooks/useTypedSelector';
 import GoogleSearch from '../Apps/GoogleSearch/GoogleSearch';
 import Terminal from '../Apps/Terminal/Terminal';
 import Bing from '../Apps/Bing/Bing';
-import PortfolioLanding from '../Portfolio/PortfolioLanding/PortfolioLanding';
-import PortfolioLayout from '../Portfolio/PortfolioLayout/PortfolioLayout';
-import Iframe from '../Iframe/Iframe';
 
 export const useSystemTrayConfig = (): {
   systemTrayButtons: ISystemTrayButton[];
@@ -73,22 +70,6 @@ export const useSystemTrayConfig = (): {
     },
     {
       id: 6,
-      src: '/assets/icons/taskbar/file_explorer.webp',
-      size: { width: 30, height: 30 },
-      action: null,
-      alt: 'Explore files',
-      willOpenWindowWith: 
-      <Iframe
-      iframeSrc={'/portfolio'}
-      iframeSize={{ width: '100%', height: '100%' }}
-      title={'Portfoilo'}
-      style={{
-        border: 'none',
-      }}
-    />,
-    },
-    {
-      id: 7,
       src: '/assets/icons/startmenu/github.svg',
       size: { width: 34, height: 34 },
       action: () => window.open('https://github.com/Capybara003', '_blank'),
@@ -96,7 +77,7 @@ export const useSystemTrayConfig = (): {
       willOpenWindowWith: null,
     },
     {
-      id: 8,
+      id: 7,
       src: '/assets/icons/taskbar/bash.png',
       size: { width: 30, height: 30 },
       action: null,
@@ -104,7 +85,7 @@ export const useSystemTrayConfig = (): {
       willOpenWindowWith: <Terminal />,
     },
     {
-      id: 9,
+      id: 8,
       src: themeToggleIcon,
       size: { width: 33, height: 33 },
       action: () => changeTheme(),
