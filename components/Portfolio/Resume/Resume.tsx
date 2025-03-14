@@ -34,7 +34,7 @@ const Resume = (): JSX.Element => {
               <FiMail />
               Joshua
             </Styled.ContactLink>
-            <p>Kyiv, Kyiv, Ukraine </p>
+            <p>Buffalo, CA, US </p>
           </Styled.ContactInfo>
 
           <TextList
@@ -74,7 +74,7 @@ const Resume = (): JSX.Element => {
                 <FiMail className={'social-media-icon'} />
                 Email
               </Styled.SocialMediaLink>
-              <Styled.SocialMediaLink href="tel:+14378861335 ">
+              <Styled.SocialMediaLink href="tel:+12084359096 ">
                 <FiPhoneOutgoing className={'social-media-icon'} />
                 +1 208 435 9096
               </Styled.SocialMediaLink>
