@@ -19,19 +19,7 @@ export const useContactConfig = (): { myContacts: IMyContact[] } => {
       icon: <FiGithub className={'contact-icon'} />,
       text: 'GitHub',
       href: 'https://github.com/Capybara003',
-    },
-    {
-      id: 3,
-      icon: <FiLinkedin className={'contact-icon'} />,
-      text: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/Joshua/',
-    },
-    {
-      id: 4,
-      icon: <FiInstagram className={'contact-icon'} />,
-      text: 'LinkedIn',
-      href: 'https://www.instagram.com/Joshuacodes/',
-    },
+    }
   ];
 
   return { myContacts };

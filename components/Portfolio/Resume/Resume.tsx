@@ -72,14 +72,6 @@ const Resume = (): JSX.Element => {
             {/*SOCIAL MEDIA LINKS*/}
             <Styled.SocialLinksWrapper>
               <Styled.SocialMediaLink
-                href={'https://www.linkedin.com/in/vovau/'}
-                target={'_blank'}
-                rel="noopener"
-              >
-                <SiLinkedin className={'social-media-icon'} />
-                Linkedin
-              </Styled.SocialMediaLink>
-              <Styled.SocialMediaLink
                 href={'https://github.com/Capybara003'}
                 target={'_blank'}
                 rel="noopener"
